@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of a wolf under the moon](https://c7.uihere.com/files/810/353/316/moon-astronomy-outer-space-sky.jpg)
